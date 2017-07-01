@@ -1,4 +1,4 @@
-# Learn-CSharp-By-Building-Applications
+# Learn C# By Building Applications
 
 All of the application contents are in this repository.
 
