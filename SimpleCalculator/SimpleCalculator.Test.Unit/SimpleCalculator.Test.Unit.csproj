@@ -53,7 +53,7 @@
   </Choose>
   <ItemGroup>
     <Compile Include="CalculatorEngineTest.cs" />
-    <Compile Include="InputCoverterTest.cs" />
+    <Compile Include="InputConverterTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

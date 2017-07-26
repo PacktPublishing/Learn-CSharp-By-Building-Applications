@@ -14,7 +14,7 @@ namespace SimpleCalculator.Test.Unit
             int number1 = 1;
             int number2 = 2;
             double result = _calculatorEngine.Calculate("add", number1, number2);
-            Assert.AreEqual(result, 3);
+            Assert.AreEqual(3, result);
         }
 
         [TestMethod]
@@ -23,7 +23,7 @@ namespace SimpleCalculator.Test.Unit
             int number1 = 1;
             int number2 = 2;
             double result = _calculatorEngine.Calculate("+", number1, number2);
-            Assert.AreEqual(result, 3);
+            Assert.AreEqual(3, result);
         }
     }
 }
